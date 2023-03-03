@@ -1,6 +1,5 @@
 import funcoes
 import string
-import secrets
 import time
 
 #entrada
